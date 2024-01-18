@@ -20,7 +20,7 @@ This dataset contains Cars details respectively .The data contains 13 columns an
 | km_driven   |Km Driven by the Car        | INT  |
 | fuel             | Fuel type of the Car   | VARCHAR(20)   |
 | seller_type           |  Seller type of the Car  |  VARCHAR(20) |
-| transmission             | Transmission by the Car              | VARCHAR(20) |
+| transmission             | Transmission mode by the Car              | VARCHAR(20) |
 | owner       | Car's Owner type   | VARCHAR(30)           |
 | mileage        | Mileage of the Car      | VARCHAR(30) |
 | engine                  | Car's Engine type | VARCHAR(20)           |
