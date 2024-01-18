@@ -43,7 +43,7 @@ where year =2020 and lower(fuel) = 'diesel';
 
 --  How many petrol cars are available in 2020
 
-select year, count(*) as no_of_diesel_cars 
+select year, count(*) as no_of_petrol_cars 
 from carsdetails
 where year =2020 and lower(fuel) = 'petrol';
 
